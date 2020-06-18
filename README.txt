@@ -1,0 +1,3 @@
+Welcome on the github repository of the channel / Bienvenue sur le github de la chaine !
+
+Still empty, have to work on that ...
